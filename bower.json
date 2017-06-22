@@ -1,0 +1,36 @@
+{
+  "name": "moment.workdays.js",
+  "description": "add easter, add workdays and subtract workdays",
+  "keywords": [
+    "moment",
+    "easter",
+    "workdays"
+  ],
+  "authors": [
+    { "name": "vdeApps" }
+  ],
+  "dependencies": {
+    "moment": lastest
+  },
+  "main": [
+    "src/moment.workdays.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vdeapps/moment.workdays.js.git"
+  },
+  "license" : [
+    "MIT",
+    "GPL-2.0+"
+  ],
+  "ignore": [
+    "/node_modules",
+    "/bower_components",
+    "/.git",
+    "/src",
+    "/test",
+    "/Gruntfile.js",
+    "/package.json",
+    "/index.html"
+  ]
+}

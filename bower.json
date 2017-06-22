@@ -10,7 +10,7 @@
     { "name": "vdeApps" }
   ],
   "dependencies": {
-    "moment": "lastest"
+    "moment": "master"
   },
   "main": [
     "src/moment.workdays.js"
